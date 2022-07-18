@@ -1,0 +1,20 @@
+Documentação do Firmware:
+
+função                     endereço Mnemônico
+
+main                       0        main
+halt                       255      halt
+X = X + mem[address]       2        add x,
+mem[adress] = X            5        mov
+GOTO address               8        goto
+X = X - mem[address]       10       sub x,
+X = X * mem[address]       13       mult x,
+if X == 0 then GOTO adress 16       jz x,
+X = X < mem[address]       18       smlr x,
+X = X //mem[address]       21       div x,
+X = X % mem[address]       26       mod x,
+X = min(X, mem[address])   29       min x,
+X = X == mem[address]	   33       ig x,
+X = X > mem[address]       37       bigr x,
+X = X >> 1                 40       desl1 x
+X = X >> 2                 41       desl2 x 
