@@ -1,0 +1,6 @@
+Perceba que as entradas requisitadas estão nas primeiras words (primeiras variáveis) do programa e a saída é sempre guardada na mesma word (a primeira)
+
+1. Mostrar se um ano é bissexto ou não, em que o ano é a primeira word do programa.
+2. Mostrar n-ésimo primo, em que n é a primeira word do programa.
+3. Mostrar o menor dos 3 valores das 3 primeiras words
+4. Mostrar o piso da raiz quadrada de n, em que n é a primeira word do programa.
