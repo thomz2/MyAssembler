@@ -1,5 +1,5 @@
  goto main 
- wb 0 #não sei pra que serve
+ wb 0 
 
 a ww 2086 #exemplo do ano bissexto
 b ww 4 #valor pra dividir no teste
