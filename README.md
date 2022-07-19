@@ -1,5 +1,5 @@
-# MyAssembler
-Assembler pessoal para trabalho da faculdade
+# TuringPC
+Computador e Assembler fortemente baseado em Maquina de Turing simulados em Python.
 
 Instruções:
 
