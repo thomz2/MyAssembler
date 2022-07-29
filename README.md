@@ -17,4 +17,4 @@ O comando acima mostrará no terminal, ao ser executado, o valor guardado na wor
 
 ![image](https://user-images.githubusercontent.com/82160387/179629292-2e2223d7-14c8-4424-8ba7-aaaae68adfeb.png)
 
-Para comandos e documentação, acessar arquivos no repositório.
+**Para comandos e documentação, acessar arquivos no repositório.**
